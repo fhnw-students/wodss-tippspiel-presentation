@@ -25,7 +25,6 @@
   "bugs": {
     "url": "https://github.com/fhnw-students/wodss-tippspiel-web/issues"
   },
-  "homepage": "https://github.com/fhnw-students/wodss-tippspiel-web#readme",
   "engines": {
     "node": ">= 6.0.0"
   },
