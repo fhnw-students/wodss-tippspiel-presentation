@@ -15,6 +15,7 @@ import titleSlide from './slides/000-title.slide.html';
 import indexSlide from './slides/001-index.slide.html';
 
 import ermSlide from './slides/010-erm.slide.html';
+import apiSlide from './slides/011-api.slide.html';
 import uiRegisterSlide from './slides/100-ui-register.slide.html';
 import uiResetSlide from './slides/101-ui-reset.slide.html';
 import uiLoginSlide from './slides/102-ui-login.slide.html';
@@ -36,6 +37,7 @@ const slides = [
   indexSlide,
 
   ermSlide,
+  apiSlide,
 
   uiLoginSlide,
   uiRegisterSlide,
