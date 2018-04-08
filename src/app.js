@@ -22,9 +22,10 @@ import uiGamesSlide from './slides/103-ui-games.slide.html';
 import uiRankingSlide from './slides/104-ui-ranking.slide.html';
 import uiTeamSlide from './slides/105-ui-team.slide.html';
 import uiProfileSlide from './slides/106-ui-profile.slide.html';
+import challenges1Slide from './slides/107-challenges.slide.html';
+import challenges2Slide from './slides/108-challenges.slide.html';
 
 import questionSlide from './slides/900-questions.slide.html';
-import emptySlide from './slides/999-empty.slide.html';
 
 // -------------------------------------------------------------------------
 // Slides
@@ -35,16 +36,19 @@ const slides = [
   indexSlide,
 
   ermSlide,
+
+  uiLoginSlide,
   uiRegisterSlide,
   uiResetSlide,
-  uiLoginSlide,
   uiGamesSlide,
   uiRankingSlide,
   uiTeamSlide,
   uiProfileSlide,
 
+  challenges1Slide,
+  challenges2Slide,
+
   questionSlide,
-  emptySlide,
 ]
   .forEach(s => $('#slides').append(s));
 
