@@ -14,3 +14,18 @@ section.box-center {
     padding-right: 15px;
   }
 }
+
+.giphy-box {
+  display: flex;
+  flex: 1;
+  width: 100%;
+  justify-content: center;
+
+  .giphy-box-inner {
+    width: 600px;
+
+    > div {
+      margin-left: -50%;
+    }
+  }
+}
