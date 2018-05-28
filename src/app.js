@@ -36,21 +36,24 @@ const slides = [
   titleSlide,
   indexSlide,
 
-  ermSlide,
-  apiSlide,
-
-  uiLoginSlide,
-  uiRegisterSlide,
-  uiResetSlide,
   uiGamesSlide,
-  uiRankingSlide,
-  uiTeamSlide,
-  uiProfileSlide,
-
   challenges1Slide,
-  challenges2Slide,
-
   questionSlide,
+
+  // ermSlide,
+  // apiSlide,
+
+  // uiLoginSlide,
+  // uiRegisterSlide,
+  // uiResetSlide,
+  // uiRankingSlide,
+  // uiTeamSlide,
+  // uiProfileSlide,
+
+  // challenges1Slide,
+  // challenges2Slide,
+
+
 ]
   .forEach(s => $('#slides').append(s));
 
